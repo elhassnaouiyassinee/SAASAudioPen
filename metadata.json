@@ -1,0 +1,7 @@
+{
+  "name": "AudioScribe",
+  "description": "A minimalist voice note app that uses AI to transcribe and rewrite your thoughts into structured text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
